@@ -1,0 +1,40 @@
+body {
+	background: black;
+	font-family: 'Caudex', serif;
+}
+h1 {
+	font-family: 'Caudex', serif;
+	font-weight: bold;
+	margin: 0;
+}
+h2 {
+	margin-top: -10px;
+	margin-bottom: 7px;
+}
+hr {
+
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+.jumbotron {
+	margin-top: 30px;
+	margin-bottom: 30px;
+margin-left: 30px;
+margin-right: 30px;
+}
+.thumbnail p {
+	font-size: small;
+}
+blockquote-reverse {
+	font-size: medium;
+	background:white;
+}
+.doodle {
+	margin-bottom: 10px;
+
+}
+a {
+	text-decoration: none !important;
+	color: inherit;
+}
